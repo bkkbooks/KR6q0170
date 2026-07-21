@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0170_000.yaml, hash: 'sha256:0f92c0def2284ff232b786291c8d1ddbb4782d93482d5e81f652b5a0ac2f6e95'}
+  - {seq: 0, filename: KR6q0170_000.yaml, hash: 'sha256:2dc94293c14a2248f713c6052bcb5608d0855a4aa6556fecf5ac46432b9e017c'}
   - {seq: 1, filename: KR6q0170_001.yaml, hash: 'sha256:014e74459c4e39fb63b7b8fcde4fcb72112507bfd18cf2d25b44c835718d1033'}
   - {seq: 2, filename: KR6q0170_002.yaml, hash: 'sha256:5f3b088bdd6766e339b120d4ed2d73b12e87f29d5ff4b6292766c35c66423760'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0170_000.markers.yaml, hash: 'sha256:1bf50cea61711f70e7dc85f440fc21343d664e96012a9c221da34a0c4849d6bf'}
+  - {seq: 0, role: markers, filename: assets/KR6q0170_000.markers.yaml, hash: 'sha256:2d0078e0f416a6ae2e1404f0d9f7851906790bbc8e16f8c543221bf34e902d6d'}
   - {seq: 1, role: markers, filename: assets/KR6q0170_001.markers.yaml, hash: 'sha256:02dde97abc28f5bd3244dda667a77122e1f8855db4f9929a33cea957f35b7ec9'}
   - {seq: 2, role: markers, filename: assets/KR6q0170_002.markers.yaml, hash: 'sha256:fb9896de298996b3f2a00ccfbff4948346673a6f8697dd99555f53e2e9d8263c'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0170_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1283-A 重刻宗範序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0170_X_000-mulu-2
     span:
-    - front
+    - body
     - 744
     - 744
   label: No. 1283-B 序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0170_X_000-mulu-3
     span:
-    - front
+    - body
     - 1451
     - 1451
   label: 凡例
@@ -199,7 +199,7 @@ table_of_contents:
   label: No. 1283-C
   type: mulu
   level: 1
-hash: sha256:d91e6d25658fc4ba432d66324b5c6358096ef7a111d1c16034edfe49ce3587c2
+hash: sha256:4b6f6d974e664159035bc111bccde368a30a75750bca7289d1e684a2c38a428d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
